@@ -6,7 +6,7 @@ package database;
 
 /**
  *
- * @author 
+ * @author Rajeev Singh
  */
 import java.sql.Connection;
 import java.sql.DriverManager;

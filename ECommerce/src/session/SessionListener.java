@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSessionListener;
 
 /**
  *
- * @author Santosh Kumar Singh
+ * @author Rajeev Singh
  */
 @WebListener
 public class SessionListener implements HttpSessionListener {

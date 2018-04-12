@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Santosh Kumar Singh
+ * @author Rajeev Singh
  */
 public class Product {
 
