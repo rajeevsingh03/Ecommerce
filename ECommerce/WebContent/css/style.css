@@ -1,0 +1,319 @@
+root { 
+    display: block;
+}
+
+body
+{
+    margin-top :0px;
+    margin-left :0px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #434367;
+    BACKGROUND-COLOR: #ffffff;
+
+
+
+}
+
+A:link
+{    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    BACKGROUND: none;
+}
+
+A:visited
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    BACKGROUND: none;
+}
+
+A:active
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: underline;
+    BACKGROUND: none;
+}
+
+A:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: underline ;
+
+    BACKGROUND: none;
+}
+
+td
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #434367;
+
+}
+
+td1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #434367;
+
+}
+
+.TextBoxStyle
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: #434367 1px solid; 
+    BORDER-TOP: #434367 1px solid;
+    BORDER-LEFT: #434367 1px solid;
+    BORDER-RIGHT: #434367 1px solid;
+    height:22px; 
+}
+.TextBoxSearch
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: #434367 1px solid; 
+    BORDER-TOP: #434367 1px solid;
+    BORDER-LEFT: #434367 1px solid;
+    BORDER-RIGHT: #434367 1px solid;
+    height:15px; 
+}
+
+.TextBoxStyleReadOnly
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    background-color:#E5E5E5;
+    BORDER-BOTTOM: #434367 1px solid; 
+    BORDER-TOP: #434367 1px solid;
+    BORDER-LEFT: #434367 1px solid;
+    BORDER-RIGHT: #434367 1px solid;
+    height:22px; 
+}
+.TextBoxArea
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: #B7E8FF 1px solid; 
+    BORDER-TOP: #B7E8FF 1px solid;
+    BORDER-LEFT: #B7E8FF 1px solid;
+    BORDER-RIGHT: #B7E8FF 1px solid;
+
+}
+
+.ButtonStyle
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 7pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: #434367 1px solid; 
+    BORDER-TOP: #434367 1px solid;
+    BORDER-LEFT: #434367 1px solid;
+    BORDER-RIGHT: #434367 1px solid; 
+    height:25px; 
+
+}
+.ButtonStyleSearch
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: #434367 1px double; 
+    BORDER-TOP: #434367 1px double;
+    BORDER-LEFT: #434367 1px double;
+    BORDER-RIGHT: #434367 1px double; 
+    height:16px; 
+
+}
+.Errortext
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: red;
+
+}
+
+.TextBox {BORDER-RIGHT: black 1px groove; BORDER-TOP: black 1px groove; FONT-SIZE: 8pt;BORDER-LEFT: black 1px groove; COLOR: black; BORDER-BOTTOM: black 1px groove; FONT-FAMILY: Verdana,arial; }
+
+A {COLOR: #0000FF; TEXT-DECORATION: none}
+A:hover{COLOR: #0000FF; TEXT-DECORATION: none;}
+
+.nf {
+    font-family:verdana,sans-serif;
+    color:#000000;
+    font-size:11px;
+}
+.nf1{
+    font-family:verdana,sans-serif;
+    color:#000000;
+    font-size:13px;
+}
+.nf2 {
+    font-family:verdana,sans-serif;
+    color:#000000;
+    font-size:10px;
+}
+.nf3 {
+    font-family:verdana,sans-serif;
+    color:#ffffff;
+    font-size:11px;
+}
+.nf4 {
+    font-family:verdana,sans-serif;
+    color:#000000;
+    font-size:10px;
+
+}
+.nf5 {
+    font-family:verdana,sans-serif;
+    color:#ffffff;
+    font-size:12px;
+    font-weight:bold;
+    TEXT-ALIGN: center
+}
+.nf6 {
+    font-family:verdana,sans-serif;
+    color:#CC0000;
+    font-size:10px;
+    TEXT-ALIGN: center
+}
+.nf7 {
+    font-family:verdana,sans-serif;
+    color:#000000;
+    font-size:11px;
+    TEXT-ALIGN: left
+}
+.nf8 {
+    font-family:verdana,sans-serif;
+    color:#000000;
+    font-size:10px;
+
+}
+
+.text {
+    font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #003366; font-weight: normal; font-variant: normal}
+.heads {
+    font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #003366; font-weight: bold; font-variant: normal }
+.small {
+    font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #003366; font-weight: normal; font-variant: normal }
+.TextBox {
+    BORDER-RIGHT: black 1px groove; BORDER-TOP: black 1px groove; FONT-SIZE: 8pt;BORDER-LEFT: black 1px groove; COLOR: black; BORDER-BOTTOM: black 1px groove; FONT-FAMILY: Verdana,arial; }
+.whiteheads {
+    font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF; font-weight: normal; font-variant: normal }
+A {COLOR: #0000FF; TEXT-DECORATION: none}
+A:hover{COLOR: #0000FF; TEXT-DECORATION: none;}
+.hea { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; font-weight: normal; font-variant: normal }
+
+.button		{FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; font-weight:bold; background-color:#FFFFFF; color:#000000; cursor: hand ;}
+.buttonRED	{FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; font-weight:bold; background-color:#0000FF; color:#000000; cursor: hand ;}
+.buttonBLUE	{FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; font-weight:bold; background-color:#0000FF; color:#000000; cursor: hand ;}
+.buttonGREEN{FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; font-weight:bold; background-color:#FFFF00; color:#000000; cursor: hand ;}
+.buttonOver {FONT-FAMILY: Verdana, Arial; FONT-SIZE: 12px; font-weight:bold; background-color:#FFFFFF; color:#000000; cursor: hand ;}
+
+.MsoNormal {
+    mso-margin-top-alt:auto;
+    mso-margin-bottom-alt:auto;
+    margin-left:36.0pt;
+    text-indent:-18.0pt;
+    mso-list:l23 level1 lfo3;
+    tab-stops:list 36.0pt
+}
+
+.MsoNormal span {
+    font-size:10.0pt;
+    mso-bidi-font-size:12.0pt;
+    font-family:Wingdings;
+    mso-bidi-font-family:Arial;
+}
+
+.Spacer
+{
+    font:7.0pt Times New Roman;
+}
+
